@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: about Brian 
 ---
 
 Brian's Github Blog
