@@ -14,3 +14,6 @@ This is my [special case](/blogdemo/specialcase.html)
 
 This is an external url: [Star Trek](startrek.com)
 
+Star Trek Brave New Worlds: 
+![Star Trek Brave New Worlds](/blogdemo/starTrekBNW.jpg)
+
