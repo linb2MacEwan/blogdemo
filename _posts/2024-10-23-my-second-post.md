@@ -12,6 +12,8 @@ Star Trek!
 
 This is my [special case](/blogdemo/specialcase.html)
 
+This is the [links page](/blogdemo/links.md)
+
 This is an external url: [Star Trek](startrek.com)
 
 Star Trek Brave New Worlds: 
