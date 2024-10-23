@@ -10,7 +10,7 @@ Star Trek!
 
 ![A picture I uploaded](/blogdemo/StarTrekCaptains.jpg)
 
-This is my [special case](specialcase.html)
+This is my [special case](/blogdemo/specialcase.html)
 
 This is an external url: [Star Trek](startrek.com)
 
