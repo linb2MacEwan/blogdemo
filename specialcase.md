@@ -1,5 +1,5 @@
 ---
-Layout: Page
-Title: Special Case
+layout: Page
+title: Special Case
 ---
 This is a special case.
