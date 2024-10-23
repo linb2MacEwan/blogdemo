@@ -12,10 +12,12 @@ Star Trek!
 
 This is my [special case](/blogdemo/specialcase.html)
 
-This is the [links page](/blogdemo/links.md)
+This is the [links page](/blogdemo/links.html)
 
 This is an external url: [Star Trek](startrek.com)
 
 Star Trek Brave New Worlds: 
 ![Star Trek Brave New Worlds](/blogdemo/starTrekBNW.jpg)
+
+Links go [here](/blogdemo/
 
